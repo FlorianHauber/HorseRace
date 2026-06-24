@@ -3,7 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//
+// Florian Hauber
+// 1IHIF
+// 24.6.2026
+// description: horse class
+//
 namespace HorseRace
 {
     public class Horse
